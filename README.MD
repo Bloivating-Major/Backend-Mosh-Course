@@ -4,7 +4,7 @@
 
 [ 1️⃣ **Node Module System** 📦](./02%20Node%20Module%20System/Readme.md)
 
-[ 2️⃣ **Node Package Manager (NPM)** 🎭 ]()
+[ 2️⃣ **Node Package Manager (NPM)** 🎭 ](./03%20Node%20Package%20Manager/Readme.md)
 
 [ 3️⃣ Building RESTful API 🌐  ]()
 
