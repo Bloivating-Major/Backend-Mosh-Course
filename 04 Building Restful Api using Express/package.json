@@ -1,0 +1,17 @@
+{
+  "name": "04-building-restful-api-using-express",
+  "version": "1.0.0",
+  "description": "1. Introduction\r - we will look at express in this section\r - and restFul services\r 2. RESTful Services\r - you know client server architecture\r - the communication happens through http protocol\r - this is where rest comes in picture\r - Representation State Transfer\r - Rest is basically a convention to build this api\r - http protocol provide server to create, read update and delete which means CRUD\r - some standard http methods are\r     1. GET - To read data\r     2. POST - To create data\r     3. PUT - To update data\r     4. DELETE - To delete data\r 3. Introducing Express\r 4. Building Your First Web Server\r 5. Nodemon\r 6. Environment Variables\r 7. Route Parameters\r 8. Handling HTTP GET Requests\r 9. Handling HTTP POST Requests\r 10. Calling Endpoints Using Postman\r 11. Input Validation\r 12. Handling HTTP PUT Requests\r 13. Handling HTTP Delete Requests\r 14. Project- Build the Genres API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "joi": "^17.13.3"
+  }
+}
