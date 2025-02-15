@@ -1,0 +1,20 @@
+{
+  "name": "05-express-advance-topics",
+  "version": "1.0.0",
+  "description": "- In this session we will learn Middleware, Configuration, Debugging, Template Engine and much more.\r # Middleware\r     - \r # Creating Custom Middleware\r # Built-in Middleware\r # Third-party Middleware\r # Environments\r # Configuration\r # Debugging\r # Templating Engines\r # Database Integration\r # Authentication\r # Structuring Express Applications\r # Project- Restructure the App\r # Express- Advanced Topics Recap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.12",
+    "debug": "^4.4.0",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "joi": "^17.13.3",
+    "morgan": "^1.10.0"
+  }
+}
